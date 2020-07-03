@@ -1,0 +1,16 @@
+# Breakpoints - change based on site need
+storybook.small:
+  label: small
+  mediaQuery: 'all and (min-width: 25em)'
+storybook.small-med:
+  label: small-med
+  mediaQuery: 'all and (min-width: 26em)'
+storybook.small-large:
+  label: small-large
+  mediaQuery: 'all and (min-width: 41em)'
+storybook.medium:
+  label: medium
+  mediaQuery: 'all and (min-width: 48em)'
+storybook.large:
+  label: large
+  mediaQuery: 'all and (min-width: 61.25em)'
